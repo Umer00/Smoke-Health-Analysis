@@ -1,0 +1,11 @@
+Organ,Condition,ImageURL
+Heart,Healthy,https://raw.githubusercontent.com/Umer00/Smoke-Health-Analysis/main/Organ_Images/Heart_Healthy.jpeg
+Heart,Damaged,https://raw.githubusercontent.com/Umer00/Smoke-Health-Analysis/main/Organ_Images/Heart_Damaged.jpeg
+Human Body,Healthy,https://raw.githubusercontent.com/Umer00/Smoke-Health-Analysis/main/Organ_Images/Human_Body_Healthy.jpeg
+Human Body,Damaged,https://raw.githubusercontent.com/Umer00/Smoke-Health-Analysis/main/Organ_Images/Human_Body_Damaged.jpeg
+Kidney,Healthy,https://raw.githubusercontent.com/Umer00/Smoke-Health-Analysis/main/Organ_Images/Kidney_Healthy.jpeg
+Kidney,Damaged,https://raw.githubusercontent.com/Umer00/Smoke-Health-Analysis/main/Organ_Images/Kidney_Damaged.jpeg
+Liver,Healthy,https://raw.githubusercontent.com/Umer00/Smoke-Health-Analysis/main/Organ_Images/Liver_Healthy.jpeg
+Liver,Damaged,https://raw.githubusercontent.com/Umer00/Smoke-Health-Analysis/main/Organ_Images/Liver_Damaged.jpeg
+Lungs,Healthy,https://raw.githubusercontent.com/Umer00/Smoke-Health-Analysis/main/Organ_Images/Lungs_Healthy.jpeg
+Lungs,Damaged,https://raw.githubusercontent.com/Umer00/Smoke-Health-Analysis/main/Organ_Images/Lungs_Damaged.jpeg
